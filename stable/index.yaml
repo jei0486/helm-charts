@@ -3,9 +3,9 @@ entries:
   kong-oidc:
   - apiVersion: v1
     appVersion: latest
-    created: "2022-02-24T06:23:18.31219221Z"
+    created: "2022-02-24T06:56:07.603891068Z"
     description: Alpine + Kong 2.0.4 + kong-oidc plugin
-    digest: c4033e5b25fb9552aaac6437512b259b4ffbce89905e338cb5f888f2a0659fcc
+    digest: 8bc6295bd3a9982178e4454c4bd23d610544d569a7ad1a297eaee796733f6f75
     home: https://github.com/jei0486/helm-charts
     icon: https://d36jcksde1wxzq.cloudfront.net/saas-mega/blueFingerprint.png
     keywords:
@@ -21,4 +21,4 @@ entries:
     urls:
     - kong-oidc-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-24T06:23:18.310481236Z"
+generated: "2022-02-24T06:56:07.602950641Z"
